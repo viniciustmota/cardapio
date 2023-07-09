@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\bin\Debug\Cardapio.exe.config
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\bin\Debug\Cardapio.exe
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\bin\Debug\Cardapio.pdb
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\obj\Debug\Cardapio.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\obj\Debug\Cardapio.Form1.resources
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\obj\Debug\Cardapio.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\obj\Debug\Cardapio.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\obj\Debug\Cardapio.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\obj\Debug\Cardapio.exe
+C:\Users\Fatec\Desktop\Cardapio\Cardapio\Cardapio\obj\Debug\Cardapio.pdb
